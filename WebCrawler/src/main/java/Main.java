@@ -16,7 +16,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         try {
             InputReader inputReader = new InputReader();
             Crawler crawler = new Crawler();

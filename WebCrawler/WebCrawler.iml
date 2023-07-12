@@ -9,10 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-<<<<<<< Updated upstream
     <orderEntry type="library" name="Maven: com.cybozu.labs:langdetect:1.0.0" level="project" />
-=======
->>>>>>> Stashed changes
     <orderEntry type="library" name="Maven: com.beust:jcommander:1.82" level="project" />
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.16.1" level="project" />
   </component>
